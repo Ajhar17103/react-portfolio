@@ -1,0 +1,45 @@
+.skilldiv{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color:orangered;
+    margin: 0 auto;
+ 
+    
+}
+.h1{
+    font-family: 'Open Sans', sans-serif;
+}
+.bg{
+    background-color: orangered;
+   
+  }
+span{
+    font-size: large;
+    font-weight: bold;
+    color: #D35400;
+}
+.programmingSkills{
+    text-align: left;
+     width: 80%;
+     margin:0 auto;
+     
+     
+     
+}
+h3{
+    padding: 20px;
+    
+     
+}
+.htmlSkills{
+    background-color: #22F09F;
+    width: 80%;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 40px;
+    height: 40px;
+    color:black;
+    padding: 10px 0px;
+    font-style: italic;
+    font-size: large;
+}
