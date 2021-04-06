@@ -78,5 +78,4 @@ function BlogItem({text}) {
     </div>
   );
 }
-
 export default BlogItem;
