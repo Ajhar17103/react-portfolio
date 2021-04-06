@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Button, Modal, ModalHeader, ModalBody, ModalFooter } from 'reactstrap';
 
 
-let ModalExample = ({text}) => {
+let ModalBlog = ({text}) => {
   
 
   const [modal, setModal] = useState(false);
@@ -27,4 +27,4 @@ let ModalExample = ({text}) => {
 }
  
 
-export default ModalExample;
+export default ModalBlog;
