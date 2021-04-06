@@ -1,5 +1,5 @@
 import React from 'react';
-
+import   ModalBlog from '../Modal/Index'
 import './Cards.css';
  
  
@@ -26,7 +26,7 @@ function CardItem({src,text,label,link}) {
                {text}
                <br/>
              
-              
+              <ModalBlog/>
                   
             </div>
             
