@@ -14,7 +14,7 @@ import Hired from './components/Hired/Index';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="http://Ajhar17103.github.io/react-portfolio">
          
        <Navbar/>
        
